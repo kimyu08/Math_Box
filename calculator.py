@@ -12,4 +12,3 @@ def subtract(a, b):
 
 def square(a):
     return a*a
-

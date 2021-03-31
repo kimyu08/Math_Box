@@ -24,3 +24,9 @@ def get_Sum_ver2(n):
 
 	return sum
 
+def factorial(n):
+	sum = 1
+
+	for i in range(1,i):
+		sum = sum * i
+	return sum
